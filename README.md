@@ -1,4 +1,4 @@
-## AHOY! Meu nome é Valderubens, mas pode me chamar de Valdes. Uso esse espaço pra registrar o progresso dos meus estudos em desenvolvimento web
+## AHOY! Meu nome é Valderubens. Uso esse espaço pra registrar o progresso dos meus estudos em desenvolvimento web
 <div align="center">
   <a href="https://github.com/valderubens">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=valderubens&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
