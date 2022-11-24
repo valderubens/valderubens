@@ -6,7 +6,7 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Valdes-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Valdes-Php" height="30" width="40" src"https://www.svgrepo.com/show/354180/php.svg">
+  <img align="center" alt="Valdes-Php" height="30" width="40" src="https://www.svgrepo.com/show/349474/php.svg">
   <img align="center" alt="Valdes-Laravel" height="30" width="40" src="https://www.svgrepo.com/show/353985/laravel.svg">
   <img align="center" alt="Valdes-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Valdes-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
